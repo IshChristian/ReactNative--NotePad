@@ -1,7 +1,3 @@
-Here’s a **README.md** template for an Android Notepad app. You can customize this based on your app’s specific features and details.
-
----
-
 # **Notepad App**
 
 A lightweight and intuitive Notepad app for Android that allows users to create, edit, and manage notes on the go. Perfect for jotting down ideas, reminders, and to-do lists.
